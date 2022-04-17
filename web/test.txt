@@ -3,4 +3,6 @@ reading
 executiong
 deltin
 tamg
+testing
+samsung
 adding after comitingusing browser
