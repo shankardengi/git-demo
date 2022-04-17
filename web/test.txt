@@ -3,3 +3,5 @@ reading
 executiong
 deltin
 tamg
+testing 
+samsung
